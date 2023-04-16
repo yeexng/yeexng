@@ -1,6 +1,9 @@
 ### Bello 👋, Sam here... 
 ![](https://komarev.com/ghpvc/?username=yeexng&color=green)
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 <!--
