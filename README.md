@@ -1,5 +1,9 @@
-### Bello 👋, Sam here... 
+### Bello <img align="center" height="40" src="https://raw.githubusercontent.com/yeexng/yeexng/main/svg/kyubey.gif"/> 
 ![](https://komarev.com/ghpvc/?username=yeexng&color=green)
+
+## 
+
+## <img align="center" src="https://media.tenor.com/y_bEotJcoIkAAAAC/yoni-yoni-beer.gif"/>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
