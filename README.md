@@ -13,7 +13,7 @@ const SamNg = {
   work: "Community Operations Analyst at Covalen (Full-Time)",
   study: "Student at Epicode (Full-Time)",
   code: [JavaScript, TypeScript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, MongoDB, PostgreSQL, BootsTrap, Vercel, Node.js],
+  tools: [React, Redux, Node, Jest, MongoDB, PostgreSQL, BootsTrap, Vercel],
   email: "xuanng96@hotmail.com",
   funFact: "Malaysian with a LLB Law Degree that speaks 4 different languages",
 
