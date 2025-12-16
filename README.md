@@ -36,7 +36,7 @@ superpowers: [
 }
 ```
 ![](https://komarev.com/ghpvc/?username=yeexng&color=green)
-[![Linkedin: SamNg](https://img.shields.io/badge/-samyxng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link=https://www.linkedin.com/in/thaianebraga/h](https://www.linkedin.com/in/samyxng/)
+[![Linkedin: SamNg](https://img.shields.io/badge/-samyxng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyxng/)](https://www.linkedin.com/in/samyxng/)
 [![GitHub SamNg](https://img.shields.io/github/followers/samyxng?label=follow&style=social)](https://github.com/yeexng)
 
 <p align="center">
