@@ -15,20 +15,20 @@ const SamNg = {
   visaStatus: "Irish Citizen (No Sponsorship Required)",
   contact: {
     email: "xuanng96@hotmail.com",
-    github: "[https://github.com/yeexng](https://github.com/yeexng)",
-    linkedin: "[https://linkedin.com/in/samyxng](https://linkedin.com/in/samyxng)" 
+    github: "https://github.com/yeexng",
+    linkedin: "https://linkedin.com/in/samyxng" 
   },
   techStack: {
     languages: ["TypeScript", "JavaScript", "SQL"],
     automation: ["Playwright", "Postman", "GitHub Actions (CI/CD)"],
     development: ["React", "Node.js", "MongoDB", "Vercel"]
   },
- currentFocus: [
+   currentFocus: [
     "Building E2E Testing Frameworks",
     "Visual Regression Testing", 
     "Mobile Viewport Compatibility"
   ],
-superpowers: [
+  superpowers: [
     "Legal Precision (Detail-oriented)", 
     "Root Cause Analysis", 
     "Multilingual (EN, ZH, MS, CNT)"
