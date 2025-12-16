@@ -5,7 +5,7 @@
 
 
 
-<h3>About Me  <img align="center" height="40" src="https://raw.githubusercontent.com/yeexng/yeexng/main/svg/kyubey.gif"/></h3>
+<h3>About Me </h3>
 
 ```javascript
 const SamNg = {
@@ -36,7 +36,7 @@ const SamNg = {
 }
 ```
 ![](https://komarev.com/ghpvc/?username=yeexng&color=green)
-[![Linkedin: SamNg](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyxng/)](https://www.linkedin.com/in/samyxng/)
+[![Linkedin: SamNg](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyxng/)](https://www.linkedin.com/in/samyxng/)
 [![GitHub SamNg](https://img.shields.io/github/followers/samyxng?label=follow&style=social)](https://github.com/yeexng)
 
 <p align="center">
