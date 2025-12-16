@@ -1,6 +1,6 @@
 <h1 align="center"> Sam Ng </h1>
 
-## <p align="center"> <img align="center" src="https://media1.tenor.com/m/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="650" height="700"/></p>
+## <p align="center"> <img align="center" src="https://media1.tenor.com/m/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="850" height="400"/></p>
 
 
 
