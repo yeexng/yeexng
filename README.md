@@ -9,19 +9,34 @@
 
 ```javascript
 const SamNg = {
+  name: "Sam YX Ng",
   location: "Dublin Ireland",
-  work: "Community Operations Analyst at Covalen (Full-Time)",
-  study: "Student at Epicode (Full-Time)",
-  code: [JavaScript, TypeScript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, MongoDB, PostgreSQL, BootsTrap, Vercel],
-  email: "xuanng96@hotmail.com",
-  funFact: "Malaysian with a LLB Law Degree that speaks 4 different languages",
-
-  challenge: "Complete the whole Epicode crash course while working full-time."
+  title: "Quality Analyst (Ops) | Aspiring SDET",
+  visaStatus: "Irish Citizen (No Sponsorship Required)",
+  contact: {
+    email: "xuanng96@hotmail.com",
+    github: "[https://github.com/yeexng](https://github.com/yeexng)",
+    linkedin: "[https://linkedin.com/in/samyxng](https://linkedin.com/in/samyxng)" 
+  },
+  techStack: {
+    languages: ["TypeScript", "JavaScript", "SQL"],
+    automation: ["Playwright", "Postman", "GitHub Actions (CI/CD)"],
+    development: ["React", "Node.js", "MongoDB", "Vercel"]
+  },
+ currentFocus: [
+    "Building E2E Testing Frameworks",
+    "Visual Regression Testing", 
+    "Mobile Viewport Compatibility"
+  ],
+superpowers: [
+    "Legal Precision (Detail-oriented)", 
+    "Root Cause Analysis", 
+    "Multilingual (EN, ZH, MS, CNT)"
+  ],
 }
 ```
 ![](https://komarev.com/ghpvc/?username=yeexng&color=green)
-[![Linkedin: SamNg](https://img.shields.io/badge/-samyxng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/samyxng/)
+[![Linkedin: SamNg](https://img.shields.io/badge/-samyxng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samyxng/h](https://www.linkedin.com/in/samyxng/)
 [![GitHub SamNg](https://img.shields.io/github/followers/samyxng?label=follow&style=social)](https://github.com/yeexng)
 
 <p align="center">
