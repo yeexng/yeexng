@@ -16,7 +16,8 @@ const SamNg = {
   contact: {
     email: "xuanng96@hotmail.com",
     github: "https://github.com/yeexng",
-    linkedin: "https://linkedin.com/in/samyxng" 
+    linkedin: "https://linkedin.com/in/samyxng"
+    personalPortfolio : "https://samyxng.vercel.app/"
   },
   techStack: {
     languages: ["TypeScript", "JavaScript", "SQL"],
